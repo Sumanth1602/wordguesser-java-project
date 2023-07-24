@@ -43,5 +43,11 @@ A word guessing game where players guess words based on hints and difficulty lev
 - Extends the `Player` class.
 
 ## How to Play:
+1. Select from three difficulty levels(1-3).
+2. Get up to 2 extra Hints.
+3. You have three attempts to guess the word.
+4. Each Correct attempt gives +10 points.
+5. Each incorrect attempt gives -2 points.
+6. You have to guess a total of 3 words to finish the game.
+7. Total score is calculated and displayed in leaderboards.
 
-(This section can contain instructions on how to compile and run the game, which can be filled in later.)
